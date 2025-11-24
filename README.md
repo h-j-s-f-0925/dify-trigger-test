@@ -1,3 +1,3 @@
 # dify-trigger-test
 
-- Dify GitHub Trigger テスト
+- Dify GitHub Trigger ローカルからテスト
